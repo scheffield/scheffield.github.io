@@ -1,4 +1,0 @@
-index.html
-js/main.js
-css/main.css
-img/header.jpg
