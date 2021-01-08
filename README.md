@@ -9,3 +9,11 @@
 ```bash
 ./deploy.sh
 ```
+
+# Develop
+* follow `jekkyl` installation guide: https://jekyllrb.com/docs/installation
+  * on WSL2 use the ubuntu version
+* run
+```bash
+bundle exec jekyll serve --livereload
+```
